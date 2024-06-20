@@ -1,12 +1,12 @@
 # 🌌 Welcome to My Universe 🌌
 
-![Header Image](https://via.placeholder.com/1500x500.png?text=Your+Awesome+Space+Header+Image)
+![Header Image](https://images.unsplash.com/photo-1547275535-3ec7c2e50416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHNwYWNlfGVufDB8fHx8MTYyNjc1NzEyMA&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## 🚀 About Me
 
 Hello, I am [Your Name] - an avid developer, space enthusiast, and eternal learner. My universe is filled with code, creativity, and the curiosity to explore the endless possibilities of technology.
 
-![Astronaut](https://via.placeholder.com/200.png?text=Astronaut+Image)
+![Astronaut](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGFzdHJvbmF1dHxlbnwwfHx8fDE2MjY3NTcxMjA&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## 🌠 Projects
 
@@ -24,7 +24,7 @@ Hello, I am [Your Name] - an avid developer, space enthusiast, and eternal learn
 - **Frameworks:** React, Node.js, Django
 - **Tools:** Git, Docker, Kubernetes
 
-![Tech Stack Image](https://via.placeholder.com/300.png?text=Tech+Stack+Image)
+![Tech Stack Image](https://images.unsplash.com/photo-1510511459019-5dda7724fd87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEwfHx0ZWNofGVufDB8fHx8MTYyNjc1NzEyMQ&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## 🌌 Connect with Me
 
@@ -32,7 +32,7 @@ Hello, I am [Your Name] - an avid developer, space enthusiast, and eternal learn
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
-![Space Station](https://via.placeholder.com/300.png?text=Space+Station+Image)
+![Space Station](https://images.unsplash.com/photo-1536207299870-9ecdb5c5882e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fHNwYWNlfGVufDB8fHx8MTYyNjc1NzEyMQ&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## 🌟 Support
 
@@ -44,4 +44,4 @@ If you like what you see, consider giving a ⭐ to the repository, or buy me a c
 
 *Keep looking up... that's the secret of life.* - Charlie Brown
 
-![Footer Image](https://via.placeholder.com/1500x500.png?text=Your+Awesome+Space+Footer+Image)
+![Footer Image](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fHNwYWNlfGVufDB8fHx8MTYyNjc1NzEyMQ&ixlib=rb-1.2.1&q=80&w=1080)
