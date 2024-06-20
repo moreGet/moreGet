@@ -1,12 +1,12 @@
 # 🌌 Welcome to My Universe 🌌
 
-![Header Image](https://images.unsplash.com/photo-1547275535-3ec7c2e50416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHNwYWNlfGVufDB8fHx8MTYyNjc1NzEyMA&ixlib=rb-1.2.1&q=80&w=1080)
+![Header GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## 🚀 About Me
 
 Hello, I am [Your Name] - an avid developer, space enthusiast, and eternal learner. My universe is filled with code, creativity, and the curiosity to explore the endless possibilities of technology.
 
-![Astronaut](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGFzdHJvbmF1dHxlbnwwfHx8fDE2MjY3NTcxMjA&ixlib=rb-1.2.1&q=80&w=1080)
+![Astronaut GIF](https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif)
 
 ## 🌠 Projects
 
@@ -20,11 +20,36 @@ Hello, I am [Your Name] - an avid developer, space enthusiast, and eternal learn
 
 ## 🌌 Tech Stack
 
-- **Languages:** JavaScript, Python, C++
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Kubernetes
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 
-![Tech Stack Image](https://images.unsplash.com/photo-1510511459019-5dda7724fd87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDEwfHx0ZWNofGVufDB8fHx8MTYyNjc1NzEyMQ&ixlib=rb-1.2.1&q=80&w=1080)
+### Database & ORM
+![JPA](https://img.shields.io/badge/JPA-%236DB33F.svg?style=flat)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-%234185F3.svg?style=flat)
+![MyBatis](https://img.shields.io/badge/MyBatis-%23007ACC.svg?style=flat&logo=java&logoColor=white)
+
+### Operating Systems
+![CentOS](https://img.shields.io/badge/CentOS-%23262577.svg?style=flat&logo=centos&logoColor=white)
+![Rocky](https://img.shields.io/badge/Rocky_Linux-%2321B855.svg?style=flat&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%230D344F.svg?style=flat&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
+![Nexus Repository](https://img.shields.io/badge/Nexus-%23007ACC.svg?style=flat)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
+
+### Web Servers
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
+
+![Tech Stack GIF](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
 
 ## 🌌 Connect with Me
 
@@ -32,16 +57,10 @@ Hello, I am [Your Name] - an avid developer, space enthusiast, and eternal learn
 - **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
-![Space Station](https://images.unsplash.com/photo-1536207299870-9ecdb5c5882e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fHNwYWNlfGVufDB8fHx8MTYyNjc1NzEyMQ&ixlib=rb-1.2.1&q=80&w=1080)
-
-## 🌟 Support
-
-If you like what you see, consider giving a ⭐ to the repository, or buy me a coffee to keep me coding through the night. 🌠
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourhandle)
+![Space Station GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
 
 ---
 
 *Keep looking up... that's the secret of life.* - Charlie Brown
 
-![Footer Image](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDV8fHNwYWNlfGVufDB8fHx8MTYyNjc1NzEyMQ&ixlib=rb-1.2.1&q=80&w=1080)
+![Footer GIF](https://media.giphy.com/media/1yTCoR9k5V9zjeEJpt/giphy.gif)
